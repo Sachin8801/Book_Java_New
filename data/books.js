@@ -47,4 +47,12 @@ export const books = [
     rating: 4.0,
     year: 2022
   },
+  {
+    id: 7,
+    title: "New age devlopement",
+    author: "Shelby Singh",
+    genres: ["fantasy", "adventure", "classic"],
+    rating: 4.0,
+    year: 2022
+  },
 ];
