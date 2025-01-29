@@ -50,7 +50,7 @@ export const books = [
   {
     id: 7,
     title: "New age IT infra",
-    author: "Shelby Singh",
+    author: "Shelby Kumar Singh",
     genres: ["fantasy", "adventure", "classic"],
     rating: 4.0,
     year: 2022
